@@ -3,11 +3,17 @@
 Una solución para la organización y seguimiento de proyectos y tareas diarias.
  
 <!-- BADGE_CI -->
- 
+## 📋 Requisitos previos
+
+Antes de comenzar, asegúrate de tener instalado:
+
+* **Node.js**: v18.0.0 o superior
+* **PostgreSQL**: v14.0 o superior
+* **npm**: v9.0.0 o superior
 ## 🚀 Instalación local
  
 ```bash
-git clone https://github.com/login/device/success
+git clone https://github.com/gabo817/task-manager.git
 cd task-manager
 npm install
 ```
