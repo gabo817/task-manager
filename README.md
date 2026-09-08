@@ -2,7 +2,7 @@
  
 Una solución para la organización y seguimiento de proyectos y tareas diarias.
  
-<!-- BADGE_CI -->
+[![.github/workflows/ci.yml](https://github.com/gabo817/task-manager/actions/workflows/ci.yml/badge.svg)](https://github.com/gabo817/task-manager/actions/workflows/ci.yml)
 ## 📋 Requisitos previos
 
 Antes de comenzar, asegúrate de tener instalado:
