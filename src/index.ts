@@ -14,7 +14,7 @@ app.use(cors());
 app.use(express.json());
 
 // Archivos estáticos de la carpeta public (Frontend)
-app.use(express.static(path.join(__dirname, "../public")));
+app.use(express.static(path.join(__dirname, "../public"));
 
 // Rutas de la API
 app.use("/api", apiRoutes); // O simplemente app.use(apiRoutes); si no usas prefijo /api
